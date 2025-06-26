@@ -10,6 +10,7 @@ i18n
   .use(initReactI18next)
   .init({
     defaultNS: 'common',
+    fallbackNS: false,
     ns: ['common'],
     fallbackLng: 'en',
     debug: false,
