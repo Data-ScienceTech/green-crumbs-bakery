@@ -37,8 +37,8 @@ export const Footer = () => {
           <div>
             <h3 className="font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>[CLIENT_EMAIL]</li>
-              <li>[CLIENT_PHONE]</li>
+              <li>hello@greencrumbs.ca</li>
+              <li>+1 (514) 555-0123</li>
             </ul>
           </div>
         </div>
