@@ -27,3 +27,7 @@ i18n
   });
 
 export default i18n;
+
+// Debug logging for i18n path resolution
+console.log('i18n BASE_URL:', import.meta.env.BASE_URL);
+console.log('i18n loadPath example:', `${import.meta.env.BASE_URL || '/'}locales/en/common.json`);
