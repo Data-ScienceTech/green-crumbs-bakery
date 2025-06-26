@@ -116,6 +116,7 @@ jobs:
       - name: Build
         env:
           NODE_ENV: production
+          VITE_BASE_PATH: "/${{ github.repository }}/"
           VITE_BASE_PATH: "/${{ github.repository }}"
         run: |
           REPO_NAME=$(echo "${{ github.repository }}" | cut -d'/' -f2)
