@@ -36,13 +36,11 @@
     "title": "Get In Touch",
     "subtitle": "Ready to satisfy your sweet tooth? Contact us today.",
     "form": {
-      "name": "Full Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "message": "Message",
-      "submit": "Send Message",
-      "success": "Thank you! We'll get back to you soon.",
-      "error": "Please fill in all required fields."
+      "nameLabel": "Your Name",
+      "emailLabel": "Your Email",
+      "messageLabel": "Your Message",
+      "submitText": "Send Order",
+      "successMsg": "Thanks! We'll be in touch shortly."
     }
   },
   "about": {
