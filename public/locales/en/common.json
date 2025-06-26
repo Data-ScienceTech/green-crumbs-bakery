@@ -25,24 +25,13 @@
       "description": "Enjoy rotating flavours that celebrate Québec harvests."
     }
   ],
-  "testimonials": {
-    "title": "What Our Customers Say",
-    "testimonial1": {
-      "text": "This platform has transformed how we operate. The efficiency gains are remarkable and the support team is outstanding.",
-      "author": "Sarah Johnson",
-      "position": "CEO, TechCorp"
-    },
-    "testimonial2": {
-      "text": "Implementation was seamless and the ROI was evident within the first month. Highly recommended for any growing business.",
-      "author": "Michael Chen",
-      "position": "Operations Director, InnovateNow"
-    },
-    "testimonial3": {
-      "text": "The best investment we've made for our company. It's intuitive, powerful, and has excellent customer support.",
-      "author": "Emily Rodriguez",
-      "position": "Founder, StartupSuccess"
+  "testimonials": [
+    {
+      "quote": "The best vegan croissants I've ever tasted!",
+      "author": "Sandra P.",
+      "position": "Happy Customer"
     }
-  },
+  ],
   "contact": {
     "title": "Get In Touch",
     "subtitle": "Ready to transform your business? Contact us today.",
