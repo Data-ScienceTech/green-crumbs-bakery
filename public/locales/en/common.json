@@ -11,22 +11,20 @@
     "cta": "Get Started Today",
     "cta_secondary": "Learn More"
   },
-  "features": {
-    "title": "Why Choose Our Platform",
-    "subtitle": "Everything you need to scale your business efficiently",
-    "feature1": {
-      "title": "Lightning Fast",
-      "description": "Optimized performance ensures your operations run smoothly at any scale."
+  "features": [
+    {
+      "title": "All-natural ingredients",
+      "description": "We bake exclusively with plant-based, organic produce."
     },
-    "feature2": {
-      "title": "Secure & Reliable",
-      "description": "Enterprise-grade security with 99.9% uptime guarantee for peace of mind."
+    {
+      "title": "Same-day delivery",
+      "description": "Order before 3 PM and get your pastries delivered fresh."
     },
-    "feature3": {
-      "title": "Easy Integration",
-      "description": "Seamlessly connect with your existing tools and workflows in minutes."
+    {
+      "title": "Seasonal flavours",
+      "description": "Enjoy rotating flavours that celebrate Québec harvests."
     }
-  },
+  ],
   "testimonials": {
     "title": "What Our Customers Say",
     "testimonial1": {
