@@ -91,5 +91,6 @@
     "accept_all": "Accept All",
     "accept_selected": "Accept Selected",
     "reject_all": "Reject All"
-  }
+  },
+  "cta": "Order now"
 }
