@@ -1,4 +1,3 @@
-
 {
   "nav": {
     "home": "Home",
@@ -7,7 +6,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "headline": "Transform Your Business with Our Innovative Solutions",
+    "headline": "Fresh vegan pastries every morning",
     "subheadline": "Streamline operations, boost productivity, and drive growth with our cutting-edge platform designed for modern businesses.",
     "cta": "Get Started Today",
     "cta_secondary": "Learn More"
@@ -51,7 +50,7 @@
     "subtitle": "Ready to transform your business? Contact us today.",
     "form": {
       "name": "Full Name",
-      "email": "Email Address",  
+      "email": "Email Address",
       "phone": "Phone Number",
       "message": "Message",
       "submit": "Send Message",
